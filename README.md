@@ -20,3 +20,7 @@ A web based interface which let's a user[0] upload code[1] and enables another a
 2. admin assigns the reviewer for the code
 3. reviewer reviews the code.
 4. fin.
+
+# Database design
+
+![ERM](http://i.imgur.com/XDZHSMD.png)
